@@ -15,6 +15,5 @@ Hi, I'm Edwin! I'm currently a student at Bolivian Private university, and I'm i
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ObitoSage&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ObitoSage&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Profile views](https://komarev.com/ghpvc/?username=ObitoSage&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
