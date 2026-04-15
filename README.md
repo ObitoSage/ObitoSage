@@ -14,6 +14,34 @@ Hi, I'm Edwin! I'm currently a student at Bolivian Private university, and I'm i
 ![](https://streak-stats.demolab.com/?user=ObitoSage&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ObitoSage&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+## 🚀 Featured Projects
+
+### 🧠 [Learning Agent](https://github.com/ObitoSage/Learning-Agent)
+**Repository Module** Developed a specialized document management module for an educational platform, enabling instructors to organize pedagogical PDF resources.
+* **Tech Stack:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![PDF](https://img.shields.io/badge/PDF-Processing-red?style=flat-square)
+
+---
+
+### 🤝 [UPB Volunteer](https://github.com/ObitoSage/VoluntariadoUPB.git)
+**Mobile Recruitment App**
+Streamlined volunteer recruitment for university communities through a modern mobile experience.
+* **Tech Stack:** ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=D047FF) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+---
+
+### 💰 [Finance](https://github.com/ObitoSage/finance.git)
+**Fintech for Adolescents**
+Designed a personal finance tool focused on financial literacy and automated expense management for young users.
+* **Tech Stack:** ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+---
+
+### 🤖 [AI Text Classifier](https://github.com/ObitoSage)
+**Transformers & Deep Learning**
+A comparative research project on natural language processing techniques for high-accuracy text categorization.
+* **Tech Stack:** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Transformers](https://img.shields.io/badge/🤗-Transformers-yellow?style=flat-square)
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=ObitoSage&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
