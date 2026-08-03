@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;React+%26+NestJS+Engineer;Mobile+with+React+Native+%26+Kotlin;Building+intelligent+products+that+scale" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwinburgos)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinburgos1@upb.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin%C2%A0josue-burgos-ovale-16204a3b5/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burgosovaleedwin@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=ObitoSage&label=Profile%20Views&color=61DAFB&style=for-the-badge)
 
 </div>
@@ -105,11 +105,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ObitoSage&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ObitoSage/ObitoSage/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ObitoSage/ObitoSage/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ObitoSage/ObitoSage/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<p align="center">
+  <img src="game.gif" alt="GitHub Space Shooter — my contribution graph as a game" width="100%" />
+</p>
 
 ---
 
