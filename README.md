@@ -93,17 +93,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ObitoSage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ObitoSage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ObitoSage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ObitoSage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ObitoSage&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
+<!-- The github-profile-trophy server is currently down/rate-limited. Uncomment or self-host when available.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ObitoSage&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
+-->
 
 <p align="center">
   <img src="game.gif" alt="GitHub Space Shooter — my contribution graph as a game" width="100%" />
