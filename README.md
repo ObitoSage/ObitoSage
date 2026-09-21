@@ -11,8 +11,8 @@ I connect **React interfaces**, **TypeScript backends** and **applied AI**.<br /
 Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
 
 <p>
-  <a href="https://www.linkedin.com/in/edwin%C2%A0josue-burgos-ovale-16204a3b5/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logoColor=67E8F9" alt="LinkedIn" /></a>
-  <a href="mailto:burgosovaleedwin@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email Edwin" /></a>
+  <a href="https://www.linkedin.com/in/edwin-josue-burgos-ovale-16204a3b5/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logoColor=67E8F9" alt="LinkedIn" /></a>
+  <a href="mailto:burgo3du@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email Edwin" /></a>
   <a href="https://github.com/ObitoSage?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="Explore my repositories" /></a>
 </p>
 
@@ -59,14 +59,8 @@ A conversational backend that helps people navigate Bolivian government procedur
 A mobile app built with a team to connect UPB students with volunteering opportunities, applications and participation tracking.
 
 **React Native · Expo · TypeScript · Firebase**  
-[Explore the code ↗](https://github.com/ObitoSage/VoluntariadoUPB) · [Watch the demo ↗](https://youtu.be/x7SMUoQIKZs)
+[Explore the code ↗](https://github.com/ObitoSage/VoluntariadoUPB) · 
 
-#### 03 / [Mercado de Mareas](https://github.com/ObitoSage/Mercado-de-mareas)
-
-A turn-based web game where tides reshape trade routes and prices. React handles the interface while an Express backend manages the game rules and opponent.
-
-**React · TypeScript · Express · Playwright**  
-[Explore the code ↗](https://github.com/ObitoSage/Mercado-de-mareas) · [Play the game ↗](https://mercado-de-mareas.onrender.com)
 
 ---
 
@@ -85,7 +79,6 @@ A turn-based web game where tides reshape trade routes and prices. React handles
 Universidad Privada Boliviana (UPB), La Paz · 2023–Present
 
 **Languages:** Spanish (native) · English (high-intermediate)  
-**TOEFL iBT:** 71/120 · June 2024
 
 </details>
 
