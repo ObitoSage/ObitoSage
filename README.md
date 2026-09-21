@@ -1,137 +1,106 @@
+<!-- Profile layout: local banner, Skill Icons stack, and Shields.io contact badges. -->
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Edwin Burgos — Full Stack &amp; AI Developer. Web, mobile and applied AI. La Paz, Bolivia." />
+</p>
+
 <div align="center">
 
-# Hi, I'm Edwin 👋
+### Building useful products for the web, mobile & beyond.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Developer;React+%26+NestJS+Engineer;Mobile+with+React+Native+%26+Kotlin;Building+intelligent+products+that+scale" alt="Typing SVG" />
+I connect **React interfaces**, **TypeScript backends** and **applied AI**.<br />
+Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin%C2%A0josue-burgos-ovale-16204a3b5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burgosovaleedwin@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=ObitoSage&label=Profile%20Views&color=61DAFB&style=for-the-badge)
+<p>
+  <a href="https://www.linkedin.com/in/edwin%C2%A0josue-burgos-ovale-16204a3b5/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logoColor=67E8F9" alt="LinkedIn" /></a>
+  <a href="mailto:burgosovaleedwin@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email Edwin" /></a>
+  <a href="https://github.com/ObitoSage?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="Explore my repositories" /></a>
+</p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### Stack
 
-- 🎓 **Computer Systems Engineering** student at **Universidad Privada Boliviana (UPB)**, La Paz, Bolivia
-- 💻 I build scalable web applications with **React, NestJS, TypeScript** and cross-platform mobile apps with **React Native & Kotlin**
-- 🤖 I integrate **AI/ML** (Transformers, RAG, Deep Learning) into real products — from NLP classifiers to conversational assistants
-- 🎨 I design interfaces in **Figma** with a focus on UX and user conversion
-- 🏆 Part of award-winning teams in **2 hackathons** — including a RAG-powered government assistant
-- 🌱 Currently deepening my skills in **Retrieval-Augmented Generation (RAG)** and production AI backends
-- 📌 Check out my pinned repositories below to see what I've been building ⬇️
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nestjs,nodejs,py,fastapi,postgres,docker&amp;theme=dark&amp;perline=8" alt="TypeScript, React, NestJS, Node.js, Python, FastAPI, PostgreSQL and Docker" />
+  </a>
 </p>
 
-**Web Development**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<p align="center">
+  <b>TypeScript · React · NestJS · Node.js · Python · FastAPI · PostgreSQL · Docker</b>
 </p>
 
-**Mobile Development**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,firebase,tensorflow,sklearn,git,figma&amp;theme=dark&amp;perline=6" height="40" alt="Kotlin, Firebase, TensorFlow, scikit-learn, Git and Figma" />
+  </a>
 </p>
 
-**Databases**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**Artificial Intelligence**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA%20NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
-</p>
-
-**DevOps & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
-
-**UX/UI Design**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Thinking-FF6F61?style=for-the-badge" />
+<p align="center">
+  <sub>Mobile: React Native · Expo · Kotlin &nbsp; / &nbsp; AI: RAG · Transformers · pgvector</sub><br />
+  <sub>Also working with JavaScript, HTML/CSS, GitHub Actions and NVIDIA NIM.</sub>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### Selected projects
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ObitoSage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ObitoSage&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
+#### 01 / [AMI — Asistente de Trámites Bolivia](https://github.com/ObitoSage/superAMI)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ObitoSage&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+A conversational backend that helps people navigate Bolivian government procedures, using retrieval-augmented generation over an open dataset.
 
-<!-- The github-profile-trophy server is currently down/rate-limited. Uncomment or self-host when available.
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ObitoSage&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
--->
+**Python · FastAPI · PostgreSQL / pgvector · NVIDIA NIM**  
+[Explore the code ↗](https://github.com/ObitoSage/superAMI)
 
-<p align="center">
-  <img src="game.gif" alt="GitHub Space Shooter — my contribution graph as a game" width="100%" />
-</p>
+#### 02 / [VoluntariadoUPB](https://github.com/ObitoSage/VoluntariadoUPB)
 
----
+A mobile app built with a team to connect UPB students with volunteering opportunities, applications and participation tracking.
 
-### 🏆 Achievements
+**React Native · Expo · TypeScript · Firebase**  
+[Explore the code ↗](https://github.com/ObitoSage/VoluntariadoUPB) · [Watch the demo ↗](https://youtu.be/x7SMUoQIKZs)
 
-- 🥇 **1st Place — April FinTech Challenge** · Incubatec · Solydes · UPB, 2026
-- 🥇 **1st Place — Solutions for My City Hackathon** · Municipal Government of La Paz, 2026
+#### 03 / [Mercado de Mareas](https://github.com/ObitoSage/Mercado-de-mareas)
 
-### 🎓 Education
+A turn-based web game where tides reshape trade routes and prices. React handles the interface while an Express backend manages the game rules and opponent.
 
-**B.S. in Computer Systems Engineering** — Universidad Privada Boliviana (UPB), La Paz, Bolivia · 2023 – Present
-
-**TOEFL iBT** — Score: 71/120 · June 2024
-
-### 🗣️ Languages
-
-Spanish (Native) · English (High-Intermediate)
+**React · TypeScript · Express · Playwright**  
+[Explore the code ↗](https://github.com/ObitoSage/Mercado-de-mareas) · [Play the game ↗](https://mercado-de-mareas.onrender.com)
 
 ---
 
-<div align="center">
+### Beyond the code
 
-💬 Always open to talk about **web/mobile development, AI/ML or hackathons** — feel free to reach out!
+- **Two hackathon wins in 2026:** April FinTech Challenge (Incubatec · Solydes · UPB) and Solutions for My City (Municipal Government of La Paz).
+- **Currently exploring:** retrieval quality, RAG and AI backends for real products.
+- **Design matters:** I use Figma and design thinking to connect interfaces with what people need.
 
-</div>
+<details>
+<summary><b>Education & languages</b></summary>
+
+<br />
+
+**B.S. in Computer Systems Engineering**  
+Universidad Privada Boliviana (UPB), La Paz · 2023–Present
+
+**Languages:** Spanish (native) · English (high-intermediate)  
+**TOEFL iBT:** 71/120 · June 2024
+
+</details>
+
+<details>
+<summary><b>My contributions, as a space shooter</b></summary>
+
+<br />
+
+<img src="./game.gif" width="100%" alt="Space shooter animation generated from my GitHub contribution graph" />
+
+</details>
+
+---
+
+<p align="center">
+  Have an idea involving <b>web, mobile or AI</b>? Let's talk.<br />
+  <a href="mailto:burgosovaleedwin@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/edwin%C2%A0josue-burgos-ovale-16204a3b5/">LinkedIn</a>
+</p>
