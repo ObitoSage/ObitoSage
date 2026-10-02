@@ -1,4 +1,4 @@
-<!-- Profile layout: local banner and technology badges. -->
+<!-- Profile layout: local banner and Skill Icons stack. -->
 <p align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Edwin Burgos — Full Stack &amp; AI Developer. Web, mobile and applied AI. La Paz, Bolivia." />
 </p>
@@ -28,21 +28,26 @@ Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
   </a>
 </p>
 
-**Web & backend**
+<p align="center">
+  <b>TypeScript · React · NestJS · Node.js · Python · FastAPI · PostgreSQL · Docker</b>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css&logoColor=1572B6) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/NestJS-1F2937?style=flat-square&logo=nestjs&logoColor=E0234E)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,firebase,tensorflow,sklearn,git,figma&amp;theme=dark&amp;perline=6" height="40" alt="Kotlin, Firebase, TensorFlow, scikit-learn, Git and Figma" />
+  </a>
+</p>
 
-**Mobile**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,githubactions&amp;theme=dark&amp;perline=5" height="40" alt="JavaScript, HTML, CSS, Android Studio and GitHub Actions" />
+  </a>
+</p>
 
-![React Native](https://img.shields.io/badge/React_Native-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1F2937?style=flat-square&logo=expo&logoColor=FFFFFF) ![Kotlin](https://img.shields.io/badge/Kotlin-1F2937?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Android](https://img.shields.io/badge/Android-1F2937?style=flat-square&logo=android&logoColor=3DDC84) ![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=FFCA28)
-
-**AI & data**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![Keras](https://img.shields.io/badge/Keras-1F2937?style=flat-square&logo=keras&logoColor=D00000) ![Transformers](https://img.shields.io/badge/Transformers-1F2937?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1F2937?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-1F2937?style=flat-square)
-
-**Tools & design**
-
-![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F2937?style=flat-square&logo=githubactions&logoColor=2088FF) ![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E) ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-1F2937?style=flat-square&logo=nvidia&logoColor=76B900)
+<p align="center">
+  <sub>Mobile: React Native · Expo · Kotlin · Android &nbsp; / &nbsp; AI: RAG · Transformers · TensorFlow/Keras · pgvector</sub><br />
+  <sub>Also working with NVIDIA NIM.</sub>
+</p>
 
 ---
 
