@@ -40,13 +40,13 @@ Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,androidstudio,githubactions&amp;theme=dark&amp;perline=5" height="40" alt="JavaScript, HTML, CSS, Android Studio and GitHub Actions" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,astro,androidstudio,githubactions&amp;theme=dark&amp;perline=7" height="40" alt="JavaScript, HTML, CSS, Next.js, Astro, Android Studio and GitHub Actions" />
   </a>
 </p>
 
 <p align="center">
   <sub>Mobile: React Native · Expo · Kotlin · Android &nbsp; / &nbsp; AI: RAG · Transformers · TensorFlow/Keras · pgvector</sub><br />
-  <sub>Also working with NVIDIA NIM.</sub>
+  <sub>Also working with Next.js · Astro · NVIDIA NIM.</sub>
 </p>
 
 ---
