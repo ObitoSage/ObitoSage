@@ -1,4 +1,4 @@
-<!-- Profile layout: local banner, Skill Icons stack, and Shields.io contact badges. -->
+<!-- Profile layout: local banner and technology badges. -->
 <p align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Edwin Burgos — Full Stack &amp; AI Developer. Web, mobile and applied AI. La Paz, Bolivia." />
 </p>
@@ -28,20 +28,21 @@ Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
   </a>
 </p>
 
-<p align="center">
-  <b>TypeScript · React · NestJS · Node.js · Python · FastAPI · PostgreSQL · Docker</b>
-</p>
+**Web & backend**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,firebase,tensorflow,sklearn,git,figma&amp;theme=dark&amp;perline=6" height="40" alt="Kotlin, Firebase, TensorFlow, scikit-learn, Git and Figma" />
-  </a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css&logoColor=1572B6) ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6) ![React](https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![NestJS](https://img.shields.io/badge/NestJS-1F2937?style=flat-square&logo=nestjs&logoColor=E0234E)
 
-<p align="center">
-  <sub>Mobile: React Native · Expo · Kotlin &nbsp; / &nbsp; AI: RAG · Transformers · pgvector</sub><br />
-  <sub>Also working with JavaScript, HTML/CSS, GitHub Actions and NVIDIA NIM.</sub>
-</p>
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-1F2937?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-1F2937?style=flat-square&logo=expo&logoColor=FFFFFF) ![Kotlin](https://img.shields.io/badge/Kotlin-1F2937?style=flat-square&logo=kotlin&logoColor=7F52FF) ![Android](https://img.shields.io/badge/Android-1F2937?style=flat-square&logo=android&logoColor=3DDC84) ![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=flat-square&logo=firebase&logoColor=FFCA28)
+
+**AI & data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1F2937?style=flat-square&logo=scikitlearn&logoColor=F7931E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-1F2937?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![Keras](https://img.shields.io/badge/Keras-1F2937?style=flat-square&logo=keras&logoColor=D00000) ![Transformers](https://img.shields.io/badge/Transformers-1F2937?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-1F2937?style=flat-square) ![pgvector](https://img.shields.io/badge/pgvector-1F2937?style=flat-square)
+
+**Tools & design**
+
+![Git](https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1F2937?style=flat-square&logo=githubactions&logoColor=2088FF) ![Figma](https://img.shields.io/badge/Figma-1F2937?style=flat-square&logo=figma&logoColor=F24E1E) ![NVIDIA NIM](https://img.shields.io/badge/NVIDIA_NIM-1F2937?style=flat-square&logo=nvidia&logoColor=76B900)
 
 ---
 
@@ -49,7 +50,7 @@ Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
 
 #### 01 / [AMI — Asistente de Trámites Bolivia](https://github.com/ObitoSage/superAMI)
 
-A conversational backend that helps people navigate Bolivian government procedures, using retrieval-augmented generation over an open dataset.
+A conversational backend that helps people navigate Bolivian government procedures through RAG, semantic search and WhatsApp integration. Built with the first-place April FinTech Challenge team.
 
 **Python · FastAPI · PostgreSQL / pgvector · NVIDIA NIM**  
 [Explore the code ↗](https://github.com/ObitoSage/superAMI)
@@ -59,16 +60,42 @@ A conversational backend that helps people navigate Bolivian government procedur
 A mobile app built with a team to connect UPB students with volunteering opportunities, applications and participation tracking.
 
 **React Native · Expo · TypeScript · Firebase**  
-[Explore the code ↗](https://github.com/ObitoSage/VoluntariadoUPB) · 
+[Explore the code ↗](https://github.com/ObitoSage/VoluntariadoUPB)
 
+#### 03 / [Plata Clara — Personal finance app](https://github.com/ObitoSage/finance)
+
+An Android app for tracking income, expenses, savings goals and budgets, with reports, daily budget forecasts and cloud sync. Designed to make personal finance easier for young people.
+
+**Kotlin · Android · Room · Firebase**  
+[Explore the code ↗](https://github.com/ObitoSage/finance)
+
+#### 04 / AI Text Classifier
+
+An NLP project comparing traditional machine learning, BiLSTM networks and fine-tuned Transformers for text categorization.
+
+**Python · scikit-learn · TensorFlow / Keras · Transformers**
+
+#### 05 / [Learning Agent — Document repository](https://github.com/ObitoSage/Learning-Agent/tree/main/backend/src/modules/repository_documents)
+
+Built the `repository_documents` module for a collaborative learning platform, enabling instructors to upload and organize teaching PDFs.
+
+**TypeScript · NestJS**  
+[Explore the module ↗](https://github.com/ObitoSage/Learning-Agent/tree/main/backend/src/modules/repository_documents)
 
 ---
 
 ### Beyond the code
 
-- **Two hackathon wins in 2026:** April FinTech Challenge (Incubatec · Solydes · UPB) and Solutions for My City (Municipal Government of La Paz).
-- **Currently exploring:** retrieval quality, RAG and AI backends for real products.
-- **Design matters:** I use Figma and design thinking to connect interfaces with what people need.
+**Hackathon wins**
+
+- **1st place · April FinTech Challenge 2026**  
+  Incubatec · Solydes · UPB
+
+- **1st place · Solutions for My City Hackathon 2026**  
+  Municipal Government of La Paz
+
+**Currently exploring:** retrieval quality, RAG and AI backends for real products.  
+**Design matters:** I use Figma and design thinking to connect interfaces with what people need.
 
 <details>
 <summary><b>Education & languages</b></summary>
@@ -78,7 +105,7 @@ A mobile app built with a team to connect UPB students with volunteering opportu
 **B.S. in Computer Systems Engineering**  
 Universidad Privada Boliviana (UPB), La Paz · 2023–Present
 
-**Languages:** Spanish (native) · English (high-intermediate)  
+**Languages:** Spanish (native) · English (high-intermediate)
 
 </details>
 
