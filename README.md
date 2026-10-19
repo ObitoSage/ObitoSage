@@ -12,7 +12,7 @@ Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
 
 <p>
   <a href="https://www.linkedin.com/in/edwin-josue-burgos-ovale-16204a3b5/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logoColor=67E8F9" alt="LinkedIn" /></a>
-  <a href="mailto:burgo3du@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email Edwin" /></a>
+  <a href="mailto:burgos3du@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=67E8F9" alt="Email Edwin" /></a>
   <a href="https://github.com/ObitoSage?tab=repositories"><img src="https://img.shields.io/badge/Projects-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=67E8F9" alt="Explore my repositories" /></a>
 </p>
 
@@ -51,41 +51,65 @@ Computer Systems Engineering student at **UPB** · La Paz, Bolivia 🇧🇴
 
 ---
 
-### Selected projects
+### Projects
 
-#### 01 / [AMI — Asistente de Trámites Bolivia](https://github.com/ObitoSage/superAMI)
+#### 01 / [SuperAMI — AI assistant for government procedures](https://github.com/ObitoSage/superAMI)
 
-A conversational backend that helps people navigate Bolivian government procedures through RAG, semantic search and WhatsApp integration. Built with the first-place April FinTech Challenge team.
+🏆 **1st place · Solutions for My City Hackathon 2026**
 
-**Python · FastAPI · PostgreSQL / pgvector · NVIDIA NIM**  
+RAG assistant that guides citizens through **1,700+ Bolivian government procedures**, available on the web and WhatsApp.
+
+- Python/FastAPI backend with **bge-m3 embeddings in pgvector**, Llama models served through **NVIDIA NIM** and SSE streaming.
+- Data ingestion pipeline (web scraping + LLM-based cost extraction), **WhatsApp Cloud API** integration and conversation persistence, tested with pytest.
+
+**Python · FastAPI · PostgreSQL / pgvector · NVIDIA NIM · Docker**  
 [Explore the code ↗](https://github.com/ObitoSage/superAMI)
 
-#### 02 / [VoluntariadoUPB](https://github.com/ObitoSage/VoluntariadoUPB)
+#### 02 / [Plantini — University volunteering app](https://github.com/ObitoSage/VoluntariadoUPB)
 
-A mobile app built with a team to connect UPB students with volunteering opportunities, applications and participation tracking.
+Cross-platform app connecting UPB students with volunteering opportunities.
 
-**React Native · Expo · TypeScript · Firebase**  
+- Real-time application tracking, interactive map, volunteer-hour goals and role-based panels (React Native, Expo Router, Zustand).
+- **Supabase** (Auth, PostgreSQL with RLS, Storage) plus an AI assistant served by a **NestJS** backend that proxies Gemini 2.0 Flash with JWT validation, rate limiting and streamed responses.
+
+**TypeScript · React Native · Expo · NestJS · Supabase · Gemini**  
 [Explore the code ↗](https://github.com/ObitoSage/VoluntariadoUPB)
 
-#### 03 / [Plata Clara — Personal finance app](https://github.com/ObitoSage/finance)
+#### 03 / [fetchEcommerce — Multi-store e-commerce](https://github.com/ObitoSage/Advanced_Databases)
 
-An Android app for tracking income, expenses, savings goals and budgets, with reports, daily budget forecasts and cloud sync. Designed to make personal finance easier for young people.
+Full-stack e-commerce platform built on **polyglot persistence**.
+
+- PostgreSQL for transactional data (users, invoices, payments) and MongoDB for catalog and carts, both managed with Prisma and run in Docker.
+- Layered Express REST API with JWT auth, bcrypt, **AES-256-GCM encryption of card data** and ACID checkout transactions.
+- React + TypeScript frontend (Vite, Tailwind, shadcn/ui, TanStack Query, Zod), tested with Vitest and MSW.
+
+**TypeScript · React · Express · PostgreSQL · MongoDB · Prisma · Docker**  
+[Explore the code ↗](https://github.com/ObitoSage/Advanced_Databases)
+
+#### 04 / [Learning Agent — RAG document pipeline](https://github.com/ObitoSage/Learning-Agent/tree/main/backend/src/modules/repository_documents)
+
+Backend `repository_documents` module for an educational platform whose AI agent answers using RAG over course PDFs uploaded by instructors.
+
+- Ingestion pipeline with **hexagonal architecture**: MinIO (S3) storage, PDF text extraction, semantic chunking with overlap and OpenAI embeddings in pgvector for similarity search.
+
+**TypeScript · NestJS · Prisma · pgvector · MinIO**  
+[Explore the module ↗](https://github.com/ObitoSage/Learning-Agent/tree/main/backend/src/modules/repository_documents)
+
+#### 05 / [Plata Clara — Personal finance app](https://github.com/ObitoSage/finance)
+
+Native Android app that helps teenagers manage their money.
+
+- Income and expense tracking, category budgets with an automatic daily budget, savings goals and monthly reports with interactive charts.
+- Local persistence with **Room** synced to Firebase Auth and Firestore (Material Design 3).
 
 **Kotlin · Android · Room · Firebase**  
 [Explore the code ↗](https://github.com/ObitoSage/finance)
 
-#### 04 / AI Text Classifier
+#### 06 / AI Text Classifier
 
-An NLP project comparing traditional machine learning, BiLSTM networks and fine-tuned Transformers for text categorization.
+NLP study comparing classical ML, BiLSTM networks and Transformers for text categorization — fine-tuned Transformers delivered the best results.
 
 **Python · scikit-learn · TensorFlow / Keras · Transformers**
-
-#### 05 / [Learning Agent — Document repository](https://github.com/ObitoSage/Learning-Agent/tree/main/backend/src/modules/repository_documents)
-
-Built the `repository_documents` module for a collaborative learning platform, enabling instructors to upload and organize teaching PDFs.
-
-**TypeScript · NestJS**  
-[Explore the module ↗](https://github.com/ObitoSage/Learning-Agent/tree/main/backend/src/modules/repository_documents)
 
 ---
 
@@ -127,5 +151,5 @@ Universidad Privada Boliviana (UPB), La Paz · 2023–Present
 
 <p align="center">
   Have an idea involving <b>web, mobile or AI</b>? Let's talk.<br />
-  <a href="mailto:burgosovaleedwin@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/edwin%C2%A0josue-burgos-ovale-16204a3b5/">LinkedIn</a>
+  <a href="mailto:burgos3du@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/edwin-josue-burgos-ovale-16204a3b5/">LinkedIn</a>
 </p>
