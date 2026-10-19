@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="252" viewBox="0 0 580 252" fill="none" role="img" aria-label="Learning Agent — RAG document pipeline for an AI tutor">
+<title>Learning Agent — RAG document pipeline for an AI tutor</title>
+<style>
+.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.m{font-family:'JetBrains Mono','SF Mono',Consolas,Menlo,monospace}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.u{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}
+.r{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+</style>
+<defs>
+<radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(580 0) scale(300 210)"><stop stop-color="#FBBF24" stop-opacity=".16"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+<linearGradient id="b" x1="0" x2="1"><stop stop-color="#FBBF24" stop-opacity="0"/><stop offset=".5" stop-color="#FBBF24"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="578" height="250" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="578" height="250" rx="14" fill="#0D1117"/>
+<rect x="1" y="1" width="578" height="250" rx="14" fill="url(#g)"/>
+<g clip-path="url(#c)"><rect x="-200" y="1" width="200" height="2.5" fill="url(#b)"><animate attributeName="x" from="-200" to="580" dur="5s" repeatCount="indefinite"/></rect></g>
+<rect x="1" y="1" width="578" height="250" rx="14" stroke="#25313D"/>
+<g transform="translate(528 52)" opacity=".5"><circle r="26" stroke="#25313D" stroke-dasharray="2 6"/><g class="r"><path d="M0-10L1.6-1.6L10 0L1.6 1.6L0 10L-1.6 1.6L-10 0L-1.6-1.6Z" fill="#FBBF24" transform="scale(1.3)"/></g></g>
+
+<g class="u" style="animation-delay:.05s"><text class="m" x="28" y="40" font-size="12" font-weight="700" fill="#FBBF24">04</text><path d="M50 36H72" stroke="#FBBF24" stroke-width="2"/><text class="s" x="82" y="40" font-size="10.5" letter-spacing="2.2" fill="#8B949E">AI · BACKEND MODULE</text></g>
+<g class="u" style="animation-delay:.15s"><text class="s" x="28" y="76" font-size="23" font-weight="700" letter-spacing="-.4" fill="#F0F6FC">Learning Agent</text><text class="s" x="28" y="98" font-size="13.5" fill="#9DAAB9">RAG document pipeline for an AI tutor</text></g>
+<g class="u" style="animation-delay:0.30s"><rect x="30" y="122" width="6" height="6" rx="1.5" fill="#FBBF24" transform="rotate(45 33 125)"/><text class="s" x="46" y="130" font-size="13" fill="#C9D1D9">Hexagonal architecture for the documents module</text></g>
+<g class="u" style="animation-delay:0.42s"><rect x="30" y="145" width="6" height="6" rx="1.5" fill="#FBBF24" transform="rotate(45 33 148)"/><text class="s" x="46" y="153" font-size="13" fill="#C9D1D9">MinIO (S3) storage and PDF text extraction</text></g>
+<g class="u" style="animation-delay:0.54s"><rect x="30" y="168" width="6" height="6" rx="1.5" fill="#FBBF24" transform="rotate(45 33 171)"/><text class="s" x="46" y="176" font-size="13" fill="#C9D1D9">Semantic chunking + OpenAI embeddings in pgvector</text></g>
+<g class="u" style="animation-delay:.75s"><rect x="28" y="206" width="59" height="22" rx="6" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text class="m" x="58" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">NestJS</text><rect x="94" y="206" width="59" height="22" rx="6" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text class="m" x="124" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">Prisma</text><rect x="161" y="206" width="73" height="22" rx="6" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text class="m" x="197" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">pgvector</text><rect x="241" y="206" width="52" height="22" rx="6" fill="#FBBF24" fill-opacity=".07" stroke="#FBBF24" stroke-opacity=".28"/><text class="m" x="267" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">MinIO</text></g>
+<text class="m u" style="animation-delay:.9s" x="552" y="221" font-size="11" fill="#FBBF24" text-anchor="end">view module ↗</text>
+</svg>

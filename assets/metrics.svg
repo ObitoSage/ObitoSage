@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="110" viewBox="0 0 960 110" fill="none" role="img" aria-label="6 projects shipped · 1,700+ procedures in RAG · 2x hackathon 1st place · web, mobile and AI">
+<style>.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.m{font-family:'JetBrains Mono','SF Mono',Consolas,Menlo,monospace}@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}.u{opacity:0;animation:up .7s ease forwards}@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}</style>
+<rect x="1" y="1" width="958" height="108" rx="14" fill="#0D1117" stroke="#25313D"/>
+<g class="u" style="animation-delay:0.10s"><text class="s" x="135" y="58" font-size="30" font-weight="700" fill="#67E8F9" text-anchor="middle">6</text><text class="m" x="135" y="82" font-size="11.5" letter-spacing="1" fill="#9DAAB9" text-anchor="middle">FEATURED PROJECTS</text></g>
+<path d="M250 26V84" stroke="#25313D"/>
+<g class="u" style="animation-delay:0.25s"><text class="s" x="365" y="58" font-size="30" font-weight="700" fill="#7EE787" text-anchor="middle">1,700+</text><text class="m" x="365" y="82" font-size="11.5" letter-spacing="1" fill="#9DAAB9" text-anchor="middle">PROCEDURES IN RAG</text></g>
+<path d="M480 26V84" stroke="#25313D"/>
+<g class="u" style="animation-delay:0.40s"><text class="s" x="595" y="58" font-size="30" font-weight="700" fill="#FBBF24" text-anchor="middle">2×</text><text class="m" x="595" y="82" font-size="11.5" letter-spacing="1" fill="#9DAAB9" text-anchor="middle">HACKATHON 1ST PLACE</text></g>
+<path d="M710 26V84" stroke="#25313D"/>
+<g class="u" style="animation-delay:0.55s"><text class="s" x="825" y="58" font-size="30" font-weight="700" fill="#C4B5FD" text-anchor="middle">3</text><text class="m" x="825" y="82" font-size="11.5" letter-spacing="1" fill="#9DAAB9" text-anchor="middle">PLATFORMS COVERED</text></g>
+</svg>

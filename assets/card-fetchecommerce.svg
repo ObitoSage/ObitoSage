@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="252" viewBox="0 0 580 252" fill="none" role="img" aria-label="fetchEcommerce — Multi-store e-commerce with polyglot persistence">
+<title>fetchEcommerce — Multi-store e-commerce with polyglot persistence</title>
+<style>
+.s{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.m{font-family:'JetBrains Mono','SF Mono',Consolas,Menlo,monospace}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+.u{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}
+.r{transform-box:fill-box;transform-origin:center;animation:spin 18s linear infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+</style>
+<defs>
+<radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(580 0) scale(300 210)"><stop stop-color="#C4B5FD" stop-opacity=".16"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></radialGradient>
+<linearGradient id="b" x1="0" x2="1"><stop stop-color="#C4B5FD" stop-opacity="0"/><stop offset=".5" stop-color="#C4B5FD"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="1" y="1" width="578" height="250" rx="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="578" height="250" rx="14" fill="#0D1117"/>
+<rect x="1" y="1" width="578" height="250" rx="14" fill="url(#g)"/>
+<g clip-path="url(#c)"><rect x="-200" y="1" width="200" height="2.5" fill="url(#b)"><animate attributeName="x" from="-200" to="580" dur="5s" repeatCount="indefinite"/></rect></g>
+<rect x="1" y="1" width="578" height="250" rx="14" stroke="#25313D"/>
+<g transform="translate(528 52)" opacity=".5"><circle r="26" stroke="#25313D" stroke-dasharray="2 6"/><g class="r"><path d="M0-10L1.6-1.6L10 0L1.6 1.6L0 10L-1.6 1.6L-10 0L-1.6-1.6Z" fill="#C4B5FD" transform="scale(1.3)"/></g></g>
+
+<g class="u" style="animation-delay:.05s"><text class="m" x="28" y="40" font-size="12" font-weight="700" fill="#C4B5FD">03</text><path d="M50 36H72" stroke="#C4B5FD" stroke-width="2"/><text class="s" x="82" y="40" font-size="10.5" letter-spacing="2.2" fill="#8B949E">WEB · DATABASES</text></g>
+<g class="u" style="animation-delay:.15s"><text class="s" x="28" y="76" font-size="23" font-weight="700" letter-spacing="-.4" fill="#F0F6FC">fetchEcommerce</text><text class="s" x="28" y="98" font-size="13.5" fill="#9DAAB9">Multi-store e-commerce with polyglot persistence</text></g>
+<g class="u" style="animation-delay:0.30s"><rect x="30" y="122" width="6" height="6" rx="1.5" fill="#C4B5FD" transform="rotate(45 33 125)"/><text class="s" x="46" y="130" font-size="13" fill="#C9D1D9">PostgreSQL for transactions · MongoDB for catalog and carts</text></g>
+<g class="u" style="animation-delay:0.42s"><rect x="30" y="145" width="6" height="6" rx="1.5" fill="#C4B5FD" transform="rotate(45 33 148)"/><text class="s" x="46" y="153" font-size="13" fill="#C9D1D9">Express API with JWT, AES-256-GCM and ACID checkout</text></g>
+<g class="u" style="animation-delay:0.54s"><rect x="30" y="168" width="6" height="6" rx="1.5" fill="#C4B5FD" transform="rotate(45 33 171)"/><text class="s" x="46" y="176" font-size="13" fill="#C9D1D9">React + TanStack Query frontend tested with Vitest + MSW</text></g>
+<g class="u" style="animation-delay:.75s"><rect x="28" y="206" width="66" height="22" rx="6" fill="#C4B5FD" fill-opacity=".07" stroke="#C4B5FD" stroke-opacity=".28"/><text class="m" x="61" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">Express</text><rect x="101" y="206" width="59" height="22" rx="6" fill="#C4B5FD" fill-opacity=".07" stroke="#C4B5FD" stroke-opacity=".28"/><text class="m" x="131" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">Prisma</text><rect x="168" y="206" width="87" height="22" rx="6" fill="#C4B5FD" fill-opacity=".07" stroke="#C4B5FD" stroke-opacity=".28"/><text class="m" x="211" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">PostgreSQL</text><rect x="262" y="206" width="66" height="22" rx="6" fill="#C4B5FD" fill-opacity=".07" stroke="#C4B5FD" stroke-opacity=".28"/><text class="m" x="295" y="221" font-size="11" fill="#E6EDF3" text-anchor="middle">MongoDB</text></g>
+<text class="m u" style="animation-delay:.9s" x="552" y="221" font-size="11" fill="#C4B5FD" text-anchor="end">view repository ↗</text>
+</svg>
